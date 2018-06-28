@@ -1,0 +1,25 @@
+west
+
+Reached target altitude
+longitude= -118.0778507
+latitude= 33.8593545
+Going towards east point
+confirmation : pic has taken
+longitude= -118.0778889
+latitude= 33.8593547
+Going towards east point
+confirmation : pic has taken
+longitude= -118.0779228
+latitude= 33.8593586
+Going towards east point
+confirmation : pic has taken
+Returning to Land
+
+
+direction 1=  13.3705778122
+Direction Vector1= Vector(0.97289475575, 0.231248338879, 0)
+direction 2=  0.353773981333
+Direction Vector2= Vector(0.999980937707, 0.00617448154859, 0)
+direction 3=  9.10936641693
+Direction Vector3= Vector(0.987387938696, 0.158319482429, 0)
+
